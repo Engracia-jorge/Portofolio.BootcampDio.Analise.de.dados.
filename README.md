@@ -72,6 +72,8 @@ Essas habilidades me capacitam para atuar em projetos de análise de dados, BI, 
 
 ## 🏅 Certificados de Conclusão
 
+<img width="563" height="397" alt="Image" src="https://github.com/user-attachments/assets/f42c05df-c172-4797-bd0b-b950aea4d405" />
+
 Ao longo do bootcamp de Análise de Dados da DIO, concluí com excelência um total de **68 certificados**, que representam minha dedicação contínua ao aprendizado e à prática de habilidades essenciais na área de dados.
 
 Esses certificados abrangem uma ampla gama de competências, incluindo:
