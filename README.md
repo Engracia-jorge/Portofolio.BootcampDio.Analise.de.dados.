@@ -88,7 +88,7 @@ Esses certificados abrangem uma ampla gama de competências, incluindo:
 Cada certificado reforça minha capacidade de aplicar soluções analíticas em cenários reais, demonstrando não apenas conhecimento técnico, mas também comprometimento com a evolução profissional.
 
 🔗 *Os certificados podem ser visualizados diretamente no meu perfil da DIO.*
-🔗 [Ver certificados na DIO](https://www.dio.me/certificates/engraciajorge4)
+🔗 [Ver certificados na DIO](https://www.dio.me/certificates/engraciajorge)
 
 
 ## 📬 Contato
